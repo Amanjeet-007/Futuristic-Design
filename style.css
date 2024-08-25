@@ -355,6 +355,15 @@ main{
 }
 
 
+svg {
+    fill: currentColor;
+    height: auto;
+    max-width: 66vmin;
+    font-size: 20px;
+    transform-origin: center;
+    width: 66%;
+  }
+
 @media (max-width:600px) {
     .m{
         display: none;
