@@ -1,5 +1,5 @@
 gsap.from(".inc",{
-    duration:4,
+    duration:3,
     delay:0.2,
     width:"0%",                                             
 });
